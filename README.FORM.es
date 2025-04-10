@@ -36,3 +36,4 @@ El usuario puede introducir su nombre, apellido, ciudad y edad. Al enviar el for
 ## 📁 Archivos importantes
 
 - `FormularioSimple.jsx` → Componente con lógica y renderizado
+
