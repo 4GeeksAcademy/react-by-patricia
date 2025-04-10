@@ -1,41 +1,23 @@
-# Hello World con la platilla de React
+# 💻 React Practice - PatriciaAlEs
 
-> 🎥 Esta plantilla [cuenta con un video tutorial](https://youtu.be/oGpSVBsq7BA), para verlo haz clic aquí.
+Este repositorio contiene ejercicios prácticos de React desarrollados para sesiones de mentoría. Cada ejercicio se enfoca en un concepto clave para ayudar a los alumnos a aprender de forma clara y progresiva.
 
-Comienza a codificar una aplicación con React.
+---
 
-> Si estás trabajando localmente en lugar de usar Codespaces o Gitpod, por favor sigue los [pasos de instalación local](#instalación-local-sáltalo-si-estás-trabajando-en-codespaces-o-gitpod) y regresa a esta parte del README.
+### 📚 Ejercicios disponibles
 
-## ¿Cómo comenzar a codificar?
+- [📝 Formulario Simple](./ejercicios/FormularioSimple/README.md)
+- [🛒 Lista de la Compra](./ejercicios/ListaDeLaCompra/README.md)
+- [🧙‍♂️ Tarjeta de Mago (API Harry Potter)](./ejercicios/TarjetaDeMago/README.md)
 
-- Instala los paquetes con `$ npm install`.
-- Ejecuta el servidor de webpack con `$ npm run start`.
+---
 
-Puedes actualizar los archivos `styles/index.css` o `js/index.js` dependiendo de tus necesidades.  
-Agrega más archivos en las carpetas `./src/js/components` o `styles` según los necesites.
+## 🛠 ¿Cómo comenzar a codificar?
 
-## Instalación local (sáltalo si estás trabajando en Codespaces o Gitpod)
-
-Descarga el boilerplate usando Git:
-
-```bash
-$ git clone https://github.com/4GeeksAcademy/react-hello.git
-$ cd react-hello
-```
-## ¡Publica tu sitio web!
-
-Este boilerplate es 100% compatible con los servicios de alojamiento gratuitos [GitHub Pages](https://pages.github.com/) y [Vercel](https://vercel.com/).
-
-Solo toma 2 minutos desplegarlo, [haz clic aquí para comenzar el proceso](https://4geeks.com/docs/start/deploy-to-render-com).
-
-## Otras características
-
-- **Formateo automático de código**: Uso de [Prettier](https://prettier.io/) para la indentación y formateo automático del código.
-- **Reporte de errores**: Uso de [ESLint](https://eslint.org/) para un mejor reporte de errores.
-
-## Contribuidores
-
-Esta plantilla fue creada como parte del [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) de 4Geeks Academy por [Alejandro Sánchez](https://twitter.com/alesanchezr) y otros contribuyentes.  
-Descubre más sobre nuestro [Curso de Desarrollo Full Stack](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) y [Bootcamp de Ciencia de Datos](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
+1. Instala los paquetes:
+ 
+  --> npm install
+  --> npm run start
 
 
+Este repositorio sigue creciendo con nuevos ejercicios según avancen las mentorías!!! 🚀
