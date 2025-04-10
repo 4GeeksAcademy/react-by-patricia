@@ -20,14 +20,16 @@ El usuario puede introducir su nombre, apellido, ciudad y edad. Al enviar el for
 ---
 
 ## 🖼️ Vista previa
+/screenshots
+  - formulario-simple.png
+  - tarjeta-aprendiz.png
 
 ### 📋 Formulario
-
-<img src="./src/img/Form.png" alt="Formulario" width="600" />
+<img src="./screenshots/formulario-simple.png" alt="Formulario" width="600" />
 
 ### 🪄 Tarjeta de aprendiz
+<img src="./screenshots/tarjeta-aprendiz.png" alt="Tarjeta" width="400" />
 
-<img src="./src/img/formCard.png" alt="Tarjeta" width="400" />
 
 ---
 
