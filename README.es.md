@@ -6,7 +6,7 @@ Este repositorio contiene ejercicios prácticos de React desarrollados para sesi
 
 ### 📚 Ejercicios disponibles
 
-- [📝 Formulario Simple](README.FORM.es)
+- [📝 Formulario Mágico](README.FORM.es)
 - [🛒 Lista de la Compra](./ejercicios/ListaDeLaCompra/README.md)
 - [🧙‍♂️ Tarjeta de Mago (API Harry Potter)](./ejercicios/TarjetaDeMago/README.md)
 
